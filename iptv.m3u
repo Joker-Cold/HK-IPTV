@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="香港台" tvg-id="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png",凤凰中文
-http:\\115.207.12.245:9999\udp\233.50.200.191:5140$LR•IPV4『线路12』
+http://115.207.12.245:9999/udp/233.50.200.191:5140$LR•IPV4『线路12』
 #EXTINF:-1 group-title="香港台" tvg-id="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png",凤凰资讯
 http://116.162.6.192/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226320/index.m3u8
 #EXTINF:-1 group-title="香港台" tvg-id="香港卫视" tvg-logo="http://tv.haoqu99.com/d/file/2016/0922/small26a02aa95faa4a0ea0f217651a4f11411474553718.jpg",香港卫视
