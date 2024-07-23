@@ -11,4 +11,6 @@ http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
 http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
 #EXTINF:-1 group-title="香港台" tvg-id="翡翠台" tvg-logo="https://evchk.fandom.com/zh/wiki/%E7%BF%A1%E7%BF%A0%E5%8F%B0?file=Tvb_Jade_cap.png",翡翠台
 http://beishan008.asuscomm.com:8889/bysid/1.m3u8$LR•IPV4『线路18』
+#EXTINF:-1 group-title="香港台" tvg-id="明珠台" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/5b/TVB_Pearl_Chinese_logo.png/revision/latest?cb=20240308072742&path-prefix=vi",明珠台
+http://nz171l122.bb60246.ctm.net:8892/bysid/2.m3u8$LR•IPV4『线路10』
 
