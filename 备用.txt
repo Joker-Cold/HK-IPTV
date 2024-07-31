@@ -7,3 +7,10 @@ http://nz171l122.bb60246.ctm.net:8889/bysid/1.m3u8$LR•IPV4『线路22』
 http://nz171l122.bb60246.ctm.net:8892/bysid/2.m3u8$LR•IPV4『线路10』
 http://grandprix2023.asuscomm.com:8892/bysid/2.m3u8$LR•IPV4『线路11』
 http://61.238.177.254:30261/stream/channelid/1310877729$LR•IPV4『线路12』
+其他
+#EXTINF:-1 group-title="香港台" tvg-id="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png",凤凰资讯
+http://116.162.6.192/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226320/index.m3u8
+#EXTINF:-1 group-title="香港台" tvg-id="香港卫视" tvg-logo="http://tv.haoqu99.com/d/file/2016/0922/small26a02aa95faa4a0ea0f217651a4f11411474553718.jpg",香港卫视
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+#EXTINF:-1 group-title="香港台" tvg-id="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png",凤凰中文HD
+http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
