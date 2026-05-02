@@ -44,7 +44,7 @@
         {
             "url": "https://chuanshuo.77blog.cn/tv.json",
             "name": "🚀11-电视魔盒[一般]"
-        }
+        },
         {
             "url": "https://gitlab.com/noimank/tvbox/-/raw/main/tvbox1.json",
             "name": "🚀12-健康家用[一般]"
@@ -56,6 +56,6 @@
           {
             "url": "https://gh-proxy.org/https:/raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json",
             "name": "🚀14-香雅情[一般]"
-        },
+        }
     ]
 }

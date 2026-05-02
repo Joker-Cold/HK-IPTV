@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="http://172.20.0.2/epg/epg.gz"
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/翡翠台.png" group-title="🕘️更新时间",2026-05-02 21:32:18
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/翡翠台.png" group-title="🕘️更新时间",2026-05-02 22:32:47
 https://stream1.freetv.fun/829b7e0470319a0e8fff9a9cc0eccdf0f87d0785005387b2a9f38fd9c7cde69c.ctv
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/翡翠台.png" group-title="📺香港综合",翡翠台
 https://stream1.freetv.fun/829b7e0470319a0e8fff9a9cc0eccdf0f87d0785005387b2a9f38fd9c7cde69c.ctv
@@ -3741,6 +3741,142 @@ https://ushls.ballbar.net/ctiasia_twn/playlist-12.m3u8a?t=1722404716&token=15a69
 https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
 #EXTINF:-1 tvg-id="台湾TVBS" tvg-name="台湾TVBS" tvg-logo="https://www.xn--rgv465a.top/tvlogo/台湾TVBS.png" group-title="♻️未匹配频道",台湾TVBS
 http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
+#EXTINF:-1 tvg-id="Astro AEC" tvg-name="Astro AEC" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Astro AEC.png" group-title="♻️未匹配频道",Astro AEC
+https://o11.163189.xyz/stream/live/aec/
+#EXTINF:-1 tvg-id="Astro AOD" tvg-name="Astro AOD" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Astro AOD.png" group-title="♻️未匹配频道",Astro AOD
+https://o11.163189.xyz/stream/live/aod/
+#EXTINF:-1 tvg-id="Channel 5" tvg-name="Channel 5" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Channel 5.png" group-title="♻️未匹配频道",Channel 5
+http://cdn6.163189.xyz/163189/ch5
+#EXTINF:-1 tvg-id="Channel 8" tvg-name="Channel 8" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Channel 8.png" group-title="♻️未匹配频道",Channel 8
+http://cdn6.163189.xyz/163189/ch8
+#EXTINF:-1 tvg-id="Channel 8" tvg-name="Channel 8" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Channel 8.png" group-title="♻️未匹配频道",Channel 8
+https://app.viloud.tv/hls/channel/57148804a268f59e0c1af0c1b67a2f7e.m3u8
+#EXTINF:-1 tvg-id="Channel U" tvg-name="Channel U" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Channel U.png" group-title="♻️未匹配频道",Channel U
+http://cdn6.163189.xyz/163189/chu
+#EXTINF:-1 tvg-id="Channel U" tvg-name="Channel U" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Channel U.png" group-title="♻️未匹配频道",Channel U
+https://app.viloud.tv/hls/channel/aaf404bee904cff424bb5d1f6fdf9333.m3u8
+#EXTINF:-1 tvg-id="Duck TV儿童卡通" tvg-name="Duck TV儿童卡通" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Duck TV儿童卡通.png" group-title="♻️未匹配频道",Duck TV儿童卡通
+http://iptv.4666888.xyz/iptv2A.php?id=39
+#EXTINF:-1 tvg-id="EZTV1" tvg-name="EZTV1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/EZTV1.png" group-title="♻️未匹配频道",EZTV1
+http://oh.eztv.vip/live/eztv1.m3u8
+#EXTINF:-1 tvg-id="GOOD2" tvg-name="GOOD2" tvg-logo="https://www.xn--rgv465a.top/tvlogo/GOOD2.png" group-title="♻️未匹配频道",GOOD2
+http://165.154.226.214:50007/of-litv-ftv17/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="GOODTV好消息" tvg-name="GOODTV好消息" tvg-logo="https://www.xn--rgv465a.top/tvlogo/GOODTV好消息.png" group-title="♻️未匹配频道",GOODTV好消息
+http://165.154.226.214:50007/of-litv-ftv16/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="HOY资讯" tvg-name="HOY资讯" tvg-logo="https://www.xn--rgv465a.top/tvlogo/HOY资讯.png" group-title="♻️未匹配频道",HOY资讯
+http://cdn.163189.xyz/163189/hoy78
+#EXTINF:-1 tvg-id="HUAHEEDAI" tvg-name="HUAHEEDAI" tvg-logo="https://www.xn--rgv465a.top/tvlogo/HUAHEEDAI.png" group-title="♻️未匹配频道",HUAHEEDAI
+http://o11.163189.xyz/stream/live/hxt/
+#EXTINF:-1 tvg-id="iQIYI" tvg-name="iQIYI" tvg-logo="https://www.xn--rgv465a.top/tvlogo/iQIYI.png" group-title="♻️未匹配频道",iQIYI
+https://o11.163189.xyz/stream/live/iqiyi/
+#EXTINF:-1 tvg-id="iQIYI" tvg-name="iQIYI" tvg-logo="https://www.xn--rgv465a.top/tvlogo/iQIYI.png" group-title="♻️未匹配频道",iQIYI
+http://iptv.4666888.xyz/iptv2A.php?id=21
+#EXTINF:-1 tvg-id="JSPORTS1" tvg-name="JSPORTS1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/JSPORTS1.png" group-title="♻️未匹配频道",JSPORTS1
+http://iptv.4666888.xyz/iptv2A.php?id=6
+#EXTINF:-1 tvg-id="MYTV黄金翡翠" tvg-name="MYTV黄金翡翠" tvg-logo="https://www.xn--rgv465a.top/tvlogo/MYTV黄金翡翠.png" group-title="♻️未匹配频道",MYTV黄金翡翠
+http://iptv.4666888.xyz/iptv2A.php?id=32
+#EXTINF:-1 tvg-id="QJ" tvg-name="QJ" tvg-logo="https://www.xn--rgv465a.top/tvlogo/QJ.png" group-title="♻️未匹配频道",QJ
+http://o11.163189.xyz/stream/live/qj/
+#EXTINF:-1 tvg-id="SPOTV" tvg-name="SPOTV" tvg-logo="https://www.xn--rgv465a.top/tvlogo/SPOTV.png" group-title="♻️未匹配频道",SPOTV
+http://iptv.4666888.xyz/iptv2A.php?id=2
+#EXTINF:-1 tvg-id="SkyTennis+" tvg-name="SkyTennis+" tvg-logo="https://www.xn--rgv465a.top/tvlogo/SkyTennis+.png" group-title="♻️未匹配频道",SkyTennis+
+http://iptv.4666888.xyz/iptv2A.php?id=62
+#EXTINF:-1 tvg-id="TntSports1" tvg-name="TntSports1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/TntSports1.png" group-title="♻️未匹配频道",TntSports1
+http://iptv.4666888.xyz/iptv2A.php?id=3
+#EXTINF:-1 tvg-id="TVB1" tvg-name="TVB1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/TVB1.png" group-title="♻️未匹配频道",TVB1
+http://iptv.4666888.xyz/iptv2A.php?id=25
+#EXTINF:-1 tvg-id="TVB翡翠(马来)" tvg-name="TVB翡翠(马来)" tvg-logo="https://www.xn--rgv465a.top/tvlogo/TVB翡翠(马来).png" group-title="♻️未匹配频道",TVB翡翠(马来)
+http://iptv.4666888.xyz/iptv2A.php?id=28
+#EXTINF:-1 tvg-id="TVB翡翠剧集" tvg-name="TVB翡翠剧集" tvg-logo="https://www.xn--rgv465a.top/tvlogo/TVB翡翠剧集.png" group-title="♻️未匹配频道",TVB翡翠剧集
+http://iptv.4666888.xyz/iptv2A.php?id=33
+#EXTINF:-1 tvg-id="TVB翡翠剧集台(TVBDRAMA)" tvg-name="TVB翡翠剧集台(TVBDRAMA)" tvg-logo="https://www.xn--rgv465a.top/tvlogo/TVB翡翠剧集台(TVBDRAMA).png" group-title="♻️未匹配频道",TVB翡翠剧集台(TVBDRAMA)
+http://cdn6.163189.xyz/163189/tvbd
+#EXTINF:-1 tvg-id="TVB功夫台" tvg-name="TVB功夫台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/TVB功夫台.png" group-title="♻️未匹配频道",TVB功夫台
+http://cdn6.163189.xyz/163189/yzwx
+#EXTINF:-1 tvg-id="TVB黄金华剧" tvg-name="TVB黄金华剧" tvg-logo="https://www.xn--rgv465a.top/tvlogo/TVB黄金华剧.png" group-title="♻️未匹配频道",TVB黄金华剧
+http://iptv.4666888.xyz/iptv2A.php?id=34
+#EXTINF:-1 tvg-id="TVB金曲" tvg-name="TVB金曲" tvg-logo="https://www.xn--rgv465a.top/tvlogo/TVB金曲.png" group-title="♻️未匹配频道",TVB金曲
+http://iptv.4666888.xyz/iptv2A.php?id=57
+#EXTINF:-1 tvg-id="TVB娱乐新闻" tvg-name="TVB娱乐新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/TVB娱乐新闻.png" group-title="♻️未匹配频道",TVB娱乐新闻
+http://iptv.4666888.xyz/iptv2A.php?id=36
+#EXTINF:-1 tvg-id="TVB-奖门人" tvg-name="TVB-奖门人" tvg-logo="https://www.xn--rgv465a.top/tvlogo/TVB-奖门人.png" group-title="♻️未匹配频道",TVB-奖门人
+http://iptv.4666888.xyz/iptv2A.php?id=31
+#EXTINF:-1 tvg-id="TVB-金曲" tvg-name="TVB-金曲" tvg-logo="https://www.xn--rgv465a.top/tvlogo/TVB-金曲.png" group-title="♻️未匹配频道",TVB-金曲
+http://iptv.4666888.xyz/iptv2A.php?id=57
+#EXTINF:-1 tvg-id="TVBJ" tvg-name="TVBJ" tvg-logo="https://www.xn--rgv465a.top/tvlogo/TVBJ.png" group-title="♻️未匹配频道",TVBJ
+http://cdn6.163189.xyz/163189/j1
+#EXTINF:-1 tvg-id="TVBJ1" tvg-name="TVBJ1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/TVBJ1.png" group-title="♻️未匹配频道",TVBJ1
+http://iptv.4666888.xyz/iptv2A.php?id=26
+#EXTINF:-1 tvg-id="TVBJADE(HD)" tvg-name="TVBJADE(HD)" tvg-logo="https://www.xn--rgv465a.top/tvlogo/TVBJADE(HD).png" group-title="♻️未匹配频道",TVBJADE(HD)
+http://cdn6.163189.xyz/163189/jade
+#EXTINF:-1 tvg-id="TVBS精彩" tvg-name="TVBS精彩" tvg-logo="https://www.xn--rgv465a.top/tvlogo/TVBS精彩.png" group-title="♻️未匹配频道",TVBS精彩
+http://iptv.4666888.xyz/iptv2A.php?id=47
+#EXTINF:-1 tvg-id="astroFootball" tvg-name="astroFootball" tvg-logo="https://www.xn--rgv465a.top/tvlogo/astroFootball.png" group-title="♻️未匹配频道",astroFootball
+http://iptv.4666888.xyz/iptv2A.php?id=4
+#EXTINF:-1 tvg-id="八度空间" tvg-name="八度空间" tvg-logo="https://www.xn--rgv465a.top/tvlogo/八度空间.png" group-title="♻️未匹配频道",八度空间
+http://cdn6.163189.xyz/163189/8tv
+#EXTINF:-1 tvg-id="八度空间" tvg-name="八度空间" tvg-logo="https://www.xn--rgv465a.top/tvlogo/八度空间.png" group-title="♻️未匹配频道",八度空间
+http://iptv.4666888.xyz/iptv2A.php?id=52
+#EXTINF:-1 tvg-id="澳门体育" tvg-name="澳门体育" tvg-logo="https://www.xn--rgv465a.top/tvlogo/澳门体育.png" group-title="♻️未匹配频道",澳门体育
+http://cdn6.163189.xyz/163189/amty
+#EXTINF:-1 tvg-id="东森综合2" tvg-name="东森综合2" tvg-logo="https://www.xn--rgv465a.top/tvlogo/东森综合2.png" group-title="♻️未匹配频道",东森综合2
+http://iptv.4666888.xyz/iptv2A.php?id=58
+#EXTINF:-1 tvg-id="翡翠一台(TVB1)" tvg-name="翡翠一台(TVB1)" tvg-logo="https://www.xn--rgv465a.top/tvlogo/翡翠一台(TVB1).png" group-title="♻️未匹配频道",翡翠一台(TVB1)
+http://cdn6.163189.xyz/163189/tvb1
+#EXTINF:-1 tvg-id="韩流美食料理秀" tvg-name="韩流美食料理秀" tvg-logo="https://www.xn--rgv465a.top/tvlogo/韩流美食料理秀.png" group-title="♻️未匹配频道",韩流美食料理秀
+http://iptv.4666888.xyz/iptv2A.php?id=63
+#EXTINF:-1 tvg-id="华视新闻" tvg-name="华视新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/华视新闻.png" group-title="♻️未匹配频道",华视新闻
+http://74.91.26.218:82/live/ctsnews.m3u8
+#EXTINF:-1 tvg-id="华艺中文" tvg-name="华艺中文" tvg-logo="https://www.xn--rgv465a.top/tvlogo/华艺中文.png" group-title="♻️未匹配频道",华艺中文
+http://iptv.4666888.xyz/iptv2A.php?id=37
+#EXTINF:-1 tvg-id="环球电视台" tvg-name="环球电视台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/环球电视台.png" group-title="♻️未匹配频道",环球电视台
+http://utv1.hqtvzb.com:9999/hls/world.m3u8
+#EXTINF:-1 tvg-id="龙华洋片" tvg-name="龙华洋片" tvg-logo="https://www.xn--rgv465a.top/tvlogo/龙华洋片.png" group-title="♻️未匹配频道",龙华洋片
+http://iptv.4666888.xyz/iptv2A.php?id=60
+#EXTINF:-1 tvg-id="民视综艺" tvg-name="民视综艺" tvg-logo="https://www.xn--rgv465a.top/tvlogo/民视综艺.png" group-title="♻️未匹配频道",民视综艺
+http://iptv.4666888.xyz/iptv2A.php?id=46
+#EXTINF:-1 tvg-id="梦工场动漫" tvg-name="梦工场动漫" tvg-logo="https://www.xn--rgv465a.top/tvlogo/梦工场动漫.png" group-title="♻️未匹配频道",梦工场动漫
+http://iptv.4666888.xyz/iptv2A.php?id=40
+#EXTINF:-1 tvg-id="邵氏动作" tvg-name="邵氏动作" tvg-logo="https://www.xn--rgv465a.top/tvlogo/邵氏动作.png" group-title="♻️未匹配频道",邵氏动作
+http://feilong123.vip/409990236/tv.php?id=ssdz
+#EXTINF:-1 tvg-id="邵氏电影" tvg-name="邵氏电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/邵氏电影.png" group-title="♻️未匹配频道",邵氏电影
+http://feilong123.vip/409990236/tv.php?id=ssdy
+#EXTINF:-1 tvg-id="邵氏武侠" tvg-name="邵氏武侠" tvg-logo="https://www.xn--rgv465a.top/tvlogo/邵氏武侠.png" group-title="♻️未匹配频道",邵氏武侠
+http://feilong123.vip/409990236/tv.php?id=sswx
+#EXTINF:-1 tvg-id="邵氏喜剧" tvg-name="邵氏喜剧" tvg-logo="https://www.xn--rgv465a.top/tvlogo/邵氏喜剧.png" group-title="♻️未匹配频道",邵氏喜剧
+http://feilong123.vip/409990236/tv.php?id=ssxj
+#EXTINF:-1 tvg-id="台视财经" tvg-name="台视财经" tvg-logo="https://www.xn--rgv465a.top/tvlogo/台视财经.png" group-title="♻️未匹配频道",台视财经
+http://74.91.26.218:82/live/ttvcj.m3u8
+#EXTINF:-1 tvg-id="台视综合" tvg-name="台视综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/台视综合.png" group-title="♻️未匹配频道",台视综合
+http://iptv.4666888.xyz/iptv2A.php?id=51
+#EXTINF:-1 tvg-id="唐NTD" tvg-name="唐NTD" tvg-logo="https://www.xn--rgv465a.top/tvlogo/唐NTD.png" group-title="♻️未匹配频道",唐NTD
+https://ntd02.akamaized.net/HD-NY/tracks-v3a1/mono.m3u8
+#EXTINF:-1 tvg-id="天映经典" tvg-name="天映经典" tvg-logo="https://www.xn--rgv465a.top/tvlogo/天映经典.png" group-title="♻️未匹配频道",天映经典
+https://cdn9.163189.xyz/smt1.1.php?id=Celestial2
+#EXTINF:-1 tvg-id="天映经典频道" tvg-name="天映经典频道" tvg-logo="https://www.xn--rgv465a.top/tvlogo/天映经典频道.png" group-title="♻️未匹配频道",天映经典频道
+http://o11.163189.xyz/stream/live/ccm/
+#EXTINF:-1 tvg-id="天映经典频道" tvg-name="天映经典频道" tvg-logo="https://www.xn--rgv465a.top/tvlogo/天映经典频道.png" group-title="♻️未匹配频道",天映经典频道
+https://cdn10.163189.xyz/stream/163189/ccm/
+#EXTINF:-1 tvg-id="天映频道马来西亚" tvg-name="天映频道马来西亚" tvg-logo="https://www.xn--rgv465a.top/tvlogo/天映频道马来西亚.png" group-title="♻️未匹配频道",天映频道马来西亚
+http://o11.163189.xyz/stream/live/typd/
+#EXTINF:-1 tvg-id="天映新加坡" tvg-name="天映新加坡" tvg-logo="https://www.xn--rgv465a.top/tvlogo/天映新加坡.png" group-title="♻️未匹配频道",天映新加坡
+https://cdn10.163189.xyz/stream/163189/typd/
+#EXTINF:-1 tvg-id="香港卫视" tvg-name="香港卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/香港卫视.png" group-title="♻️未匹配频道",香港卫视
+https://hkstv.tv/api/m3u8-proxy?url=http%3A%2F%2Fwebcast.hkstv.tv%2Flivestream%2Fmutfysrq%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="亚洲卫视" tvg-name="亚洲卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/亚洲卫视.png" group-title="♻️未匹配频道",亚洲卫视
+https://p2hs.vzan.com/slowlive/821481626725612420/live.m3u8
+#EXTINF:-1 tvg-id="娱乐百分百" tvg-name="娱乐百分百" tvg-logo="https://www.xn--rgv465a.top/tvlogo/娱乐百分百.png" group-title="♻️未匹配频道",娱乐百分百
+http://iptv.4666888.xyz/iptv2A.php?id=64
+#EXTINF:-1 tvg-id="娱乐新闻" tvg-name="娱乐新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/娱乐新闻.png" group-title="♻️未匹配频道",娱乐新闻
+http://cdn6.163189.xyz/163189/ylxw
+#EXTINF:-1 tvg-id="老故事" tvg-name="重温经典" tvg-logo="https://www.xn--rgv465a.top/tvlogo/重温经典.png" group-title="♻️未匹配频道",重温经典
+http://8.138.7.223/tv/cwjd.php
+#EXTINF:-1 tvg-id="老故事" tvg-name="重温经典" tvg-logo="https://www.xn--rgv465a.top/tvlogo/重温经典.png" group-title="♻️未匹配频道",重温经典
+http://cdn6.163189.xyz/163189/cwjd
+#EXTINF:-1 tvg-id="风云恐怖电影" tvg-name="风云恐怖电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/风云恐怖电影.png" group-title="♻️未匹配频道",风云恐怖电影
+http://iptv.4666888.xyz/iptv2A.php?id=59
+#EXTINF:-1 tvg-id="综艺大赢家" tvg-name="综艺大赢家" tvg-logo="https://www.xn--rgv465a.top/tvlogo/综艺大赢家.png" group-title="♻️未匹配频道",综艺大赢家
+http://iptv.4666888.xyz/iptv2A.php?id=65
 #EXTINF:-1 tvg-id="CCTV-4 中文国际欧洲" tvg-name="CCTV-4 中文国际欧洲" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-4 中文国际欧洲.png" group-title="♻️未匹配频道",CCTV-4 中文国际欧洲
 239.3.1.213:4220
 #EXTINF:-1 tvg-id="CCTV-4 中文国际美洲" tvg-name="CCTV-4 中文国际美洲" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-4 中文国际美洲.png" group-title="♻️未匹配频道",CCTV-4 中文国际美洲
@@ -10677,8 +10813,6 @@ https://viamotionhsi.netplus.ch/live/eds/channel5/browser-HLS8/channel5.m3u8
 https://npc.cdn.7livecloud.io/hls/live/SYD1/master.m3u8
 #EXTINF:-1 tvg-id="Channel 7 Ukraine (720p)" tvg-name="Channel 7 Ukraine (720p)" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Channel 7 Ukraine (720p).png" group-title="♻️未匹配频道",Channel 7 Ukraine (720p)
 http://cdn10.live-tv.od.ua:8081/7tvod/7tvod-abr/7tvod/7tvod/playlist.m3u8
-#EXTINF:-1 tvg-id="Channel 8" tvg-name="Channel 8" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Channel 8.png" group-title="♻️未匹配频道",Channel 8
-https://app.viloud.tv/hls/channel/57148804a268f59e0c1af0c1b67a2f7e.m3u8
 #EXTINF:-1 tvg-id="Channel 8 Kurdish (720p)" tvg-name="Channel 8 Kurdish (720p)" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Channel 8 Kurdish (720p).png" group-title="♻️未匹配频道",Channel 8 Kurdish (720p)
 https://live.channel8.com/Channel8-Kurdish/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="Channel 9 (540p) [Not 24/7]" tvg-name="Channel 9 (540p) [Not 24/7]" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Channel 9 (540p) [Not 24/7].png" group-title="♻️未匹配频道",Channel 9 (540p) [Not 24/7]
@@ -10723,8 +10857,6 @@ http://49.113.179.174:4022/udp/238.125.2.201:5140
 https://mini.allinonereborn.fun/tata.php?id=11589
 #EXTINF:-1 tvg-id="Channel S (576p)" tvg-name="Channel S (576p)" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Channel S (576p).png" group-title="♻️未匹配频道",Channel S (576p)
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/chsukoff.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="Channel U" tvg-name="Channel U" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Channel U.png" group-title="♻️未匹配频道",Channel U
-https://app.viloud.tv/hls/channel/aaf404bee904cff424bb5d1f6fdf9333.m3u8
 #EXTINF:-1 tvg-id="Channel WIN (720p)" tvg-name="Channel WIN (720p)" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Channel WIN (720p).png" group-title="♻️未匹配频道",Channel WIN (720p)
 https://cdn-4.pishow.tv/live/229/master.m3u8
 #EXTINF:-1 tvg-id="Channel Y (720p) [Not 24/7]" tvg-name="Channel Y (720p) [Not 24/7]" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Channel Y (720p) [Not 24/7].png" group-title="♻️未匹配频道",Channel Y (720p) [Not 24/7]
