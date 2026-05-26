@@ -1,0 +1,73 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="免費訂閲" tvg-name="免費訂閲" tvg-logo="https://epg.yang-1989.eu.org/logo/温馨提示.png" group-title="•溫馨「提示」",免費訂閲：請勿販賣...
+https://epg.yang-1989.eu.org/v/302.mp4
+#EXTINF:-1 tvg-id="免費訂閲" tvg-name="免費訂閲" tvg-logo="https://epg.yang-1989.eu.org/logo/温馨提示.png" group-title="•溫馨「提示」",維護時間：2026-2-14 #佛系維護...
+https://epg.yang-1989.eu.org/v/301.mp4
+#EXTINF:-1 tvg-name="免费订阅" tvg-logo="https://epg.yang-1989.eu.org/logo/温馨提示.png" group-title="•溫馨「提示」",維護内容：維護 Live「修復 SOOP / 删除 YouTube」
+https://epg.yang-1989.eu.org/v/301.mp4
+#EXTINF:-1 tvg-name="免费订阅" tvg-logo="https://epg.yang-1989.eu.org/logo/温馨提示.png" group-title="•溫馨「提示」",公告说明：在綫主播更新周期:30分钟·按需刷新訂閲即可.
+https://epg.yang-1989.eu.org/v/301.mp4
+#EXTINF:-1 tvg-logo="https://epg.yang-1989.eu.org/logo/哔哩哔哩.png" group-title="•游戏「赛事」",「B站」热门赛事
+https://cdn-3.ttvb.eu.org/bilibili/10
+#EXTINF:-1 tvg-logo="https://epg.yang-1989.eu.org/logo/哔哩哔哩.png" group-title="•游戏「赛事」",「B站」CS 2
+https://cdn-3.ttvb.eu.org/bilibili/21622811
+#EXTINF:-1 tvg-logo="https://epg.yang-1989.eu.org/logo/虎牙.png" group-title="•游戏「赛事」",「虎牙」CS 2
+https://cdn-3.ttvb.eu.org/huya/483917
+#EXTINF:-1 tvg-logo="https://epg.yang-1989.eu.org/logo/哔哩哔哩.png" group-title="•游戏「赛事」",「B站」英雄联盟
+https://cdn-3.ttvb.eu.org/bilibili/6
+#EXTINF:-1 tvg-logo="https://epg.yang-1989.eu.org/logo/虎牙.png" group-title="•游戏「赛事」",「虎牙」英雄联盟 𝟙
+https://cdn-3.ttvb.eu.org/huya/660000
+#EXTINF:-1 tvg-logo="https://epg.yang-1989.eu.org/logo/虎牙.png" group-title="•游戏「赛事」",「虎牙」英雄联盟 𝟚
+https://cdn-3.ttvb.eu.org/huya/660001
+#EXTINF:-1 tvg-logo="https://epg.yang-1989.eu.org/logo/斗鱼.png" group-title="•游戏「赛事」",「斗鱼」英雄联盟 𝟙
+https://cdn-3.ttvb.eu.org/douyu/288016
+#EXTINF:-1 tvg-logo="https://epg.yang-1989.eu.org/logo/斗鱼.png" group-title="•游戏「赛事」",「斗鱼」英雄联盟 𝟚
+https://cdn-3.ttvb.eu.org/douyu/424559
+#EXTINF:-1 tvg-logo="https://epg.yang-1989.eu.org/logo/哔哩哔哩.png" group-title="•游戏「赛事」",「B站」英雄联盟•手游
+https://cdn-3.ttvb.eu.org/bilibili/23138275
+#EXTINF:-1 tvg-logo="https://epg.yang-1989.eu.org/logo/哔哩哔哩.png" group-title="•游戏「赛事」",「B站」王者荣耀 𝟙
+https://cdn-3.ttvb.eu.org/bilibili/55
+#EXTINF:-1 tvg-logo="https://epg.yang-1989.eu.org/logo/哔哩哔哩.png" group-title="•游戏「赛事」",「B站」王者荣耀 𝟚
+https://cdn-3.ttvb.eu.org/bilibili/21654762
+#EXTINF:-1 tvg-logo="https://epg.yang-1989.eu.org/logo/虎牙.png" group-title="•游戏「赛事」",「虎牙」王者荣耀 𝟙
+https://cdn-3.ttvb.eu.org/huya/660002
+#EXTINF:-1 tvg-logo="https://epg.yang-1989.eu.org/logo/虎牙.png" group-title="•游戏「赛事」",「虎牙」王者荣耀 𝟚
+https://cdn-3.ttvb.eu.org/huya/660164
+#EXTINF:-1 tvg-logo="https://epg.yang-1989.eu.org/logo/斗鱼.png" group-title="•游戏「赛事」",「斗鱼」王者荣耀 𝟙
+https://cdn-3.ttvb.eu.org/douyu/1863767
+#EXTINF:-1 tvg-logo="https://epg.yang-1989.eu.org/logo/斗鱼.png" group-title="•游戏「赛事」",「斗鱼」王者荣耀 𝟚
+https://cdn-3.ttvb.eu.org/douyu/1984839
+#EXTINF:-1 tvg-logo="https://epg.yang-1989.eu.org/logo/哔哩哔哩.png" group-title="•游戏「赛事」",「B站」绝地求生
+https://cdn-3.ttvb.eu.org/bilibili/98
+#EXTINF:-1 tvg-logo="https://epg.yang-1989.eu.org/logo/虎牙.png" group-title="•游戏「赛事」",「虎牙」绝地求生 𝟙
+https://cdn-3.ttvb.eu.org/huya/660004
+#EXTINF:-1 tvg-logo="https://epg.yang-1989.eu.org/logo/虎牙.png" group-title="•游戏「赛事」",「虎牙」绝地求生 𝟚
+https://cdn-3.ttvb.eu.org/huya/660005
+#EXTINF:-1 tvg-logo="https://epg.yang-1989.eu.org/logo/斗鱼.png" group-title="•游戏「赛事」",「斗鱼」绝地求生
+https://cdn-3.ttvb.eu.org/douyu/100
+#EXTINF:-1 tvg-logo="https://epg.yang-1989.eu.org/logo/斗鱼.png" group-title="•游戏「赛事」",「斗鱼」绝地地图
+https://cdn-3.ttvb.eu.org/douyu/5818871
+#EXTINF:-1 tvg-logo="https://epg.yang-1989.eu.org/logo/虎牙.png" group-title="•游戏「赛事」",「虎牙」和平精英
+https://cdn-3.ttvb.eu.org/huya/660006
+#EXTINF:-1 tvg-logo="https://epg.yang-1989.eu.org/logo/斗鱼.png" group-title="•游戏「赛事」",「斗鱼」和平精英
+https://cdn-3.ttvb.eu.org/douyu/999
+#EXTINF:-1 tvg-logo="https://epg.yang-1989.eu.org/logo/虎牙.png" group-title="•游戏「赛事」",「虎牙」金铲铲之战
+https://cdn-3.ttvb.eu.org/huya/660579
+#EXTINF:-1 tvg-logo="https://epg.yang-1989.eu.org/logo/斗鱼.png" group-title="•游戏「赛事」",「斗鱼」金铲铲之战
+https://cdn-3.ttvb.eu.org/douyu/9715241
+#EXTINF:-1 tvg-logo="https://epg.yang-1989.eu.org/logo/虎牙.png" group-title="•游戏「赛事」",「虎牙」DOTA2
+https://cdn-3.ttvb.eu.org/huya/660118
+#EXTINF:-1 tvg-logo="https://epg.yang-1989.eu.org/logo/斗鱼.png" group-title="•游戏「赛事」",「斗鱼」DOTA2
+https://cdn-3.ttvb.eu.org/douyu/3811559
+#EXTINF:-1 tvg-logo="https://epg.yang-1989.eu.org/logo/斗鱼.png" group-title="•游戏「赛事」",「斗鱼」云顶之弈
+https://cdn-3.ttvb.eu.org/douyu/522423
+#EXTINF:-1 tvg-logo="https://epg.yang-1989.eu.org/logo/虎牙.png" group-title="•游戏「赛事」",「虎牙」永劫无间
+https://cdn-3.ttvb.eu.org/huya/660115
+#EXTINF:-1 tvg-logo="https://epg.yang-1989.eu.org/logo/斗鱼.png" group-title="•游戏「赛事」",「斗鱼」永劫无间
+https://cdn-3.ttvb.eu.org/huya/9662891
+#EXTINF:-1 tvg-logo="https://epg.yang-1989.eu.org/logo/哔哩哔哩.png" group-title="•游戏「赛事」",「B站」使命召唤•手游
+https://cdn-3.ttvb.eu.org/bilibili/22741849
+#EXTINF:-1 tvg-logo="https://epg.yang-1989.eu.org/logo/虎牙.png" group-title="•游戏「赛事」",「虎牙」使命召唤•手游
+https://cdn-3.ttvb.eu.org/huya/11718629
+#EXTINF:-1 tvg-logo="https://epg.yang-1989.eu.org/logo/斗鱼.png" group-title="•游戏「赛事」",「斗鱼」使命召唤•手游
+https:
